@@ -3,4 +3,5 @@ theme:
     name: material
 nav:
   - Home: index.md
-  - Arch Linux Installation: arch/touch.md  
+  - Arch Linux Installation: arch/touch.md
+  - Arch Linux Installation V2.0: arch/touch2.md  
